@@ -222,7 +222,7 @@ WindUI:Notify({
 })
         
 local Window = WindUI:CreateWindow({
-    Title = "AlienX / 忍者传奇||XI团队出品",
+    Title = "AlienX / 忍者传奇||XI团队出品必是精品",
     Icon = "rbxassetid://4483362748",
     IconThemed = true,
     Author = "AlienX",
