@@ -306,7 +306,7 @@ end)
     })
 
     local Window = WindUI:CreateWindow({
-        Title = "AlienX / 战争大亨|XI团队出品",
+        Title = "AlienX / 战争大亨|XI团队出品必是精品",
         Icon = "rbxassetid://4483362748",
         IconThemed = true,
         Author = "AlienX",
