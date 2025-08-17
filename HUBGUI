@@ -5852,8 +5852,8 @@ D, E = A:New(C)
 
 		return function(o)
 			local p = {
-				Title = "UI Library",
-				Author = "shit",
+				Title = "宿傩Ohio破解版",
+				Author = "By Xi.team",
 				Icon = o.Icon,
 				IconThemed = o.IconThemed,
 				Folder = o.Folder,
